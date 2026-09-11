@@ -1,0 +1,70 @@
+{
+  "entries": [
+    {
+      "dt_name": "DT_FighterCharacterBaseDataTable",
+      "search_root": "/Game",
+      "row_struct": "/Script/TenTenTown.CharacterBaseDataTable",
+      "csv_rel": "RawData/Character/Fighter/TenTenTown_Fighter_Data - BaseAttribute.csv"
+    },
+    {
+      "dt_name": "DT_FighterCharacterStaminaDataTable",
+      "search_root": "/Game",
+      "row_struct": "/Script/TenTenTown.CharacterStaminaDataTable",
+      "csv_rel": "RawData/Character/Fighter/TenTenTown_Fighter_Data - StaminaAttribute.csv"
+    },
+    {
+      "dt_name": "DT_StructureData",
+      "search_root": "/Game",
+      "row_struct": "/Script/TenTenTown.StructureData",
+      "csv_rel": "RawData/Structure/Structure - StructureData.csv"
+    },
+    {
+      "dt_name": "DT_ItemData",
+      "search_root": "/Game",
+      "row_struct": "/Script/TenTenTown.ItemData",
+      "csv_rel": "RawData/Item/Item - ItemData.csv"
+    },
+    {
+      "dt_name": "MDT_DemonKing",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - DemonKing.csv"
+    },  
+    {
+      "dt_name": "MDT_Orc",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - Orc.csv"
+    },
+    {
+      "dt_name": "MDT_Dragon",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - Dragon.csv"
+    },
+    {
+      "dt_name": "MDT_Worm",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - Worm.csv"
+    },
+    {
+      "dt_name": "MDT_Beholder",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - Beholder.csv"
+    },
+    {
+      "dt_name": "MDT_NagaWizard",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - NagaWizard.csv"
+    },
+    {
+      "dt_name": "MDT_BlackKnight",
+      "search_root": "/Game",
+      "row_struct": "/Script/GameplayAbilities.AttributeMetaData",
+      "csv_rel": "RawData/Monster/MonsterBase - BlackKnight.csv"
+    }
+  ]
+}

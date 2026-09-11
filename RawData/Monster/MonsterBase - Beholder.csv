@@ -1,0 +1,14 @@
+1열,BaseValue,MinValue,MaxValue,DerivedAttributeInfo,bCanStack
+AS_EnemyAttributeSetBase.MaxHealth,650,0,700,,FALSE
+AS_EnemyAttributeSetBase.Health,700,0,700,,FALSE
+AS_EnemyAttributeSetBase.Attack,70,0,70,,FALSE
+AS_EnemyAttributeSetBase.MovementSpeed,300,10,300,,FALSE
+AS_EnemyAttributeSetBase.AttackSpeed,1,0.1,1,,FALSE
+AS_EnemyAttributeSetBase.AttackRange,400,400,400,,FALSE
+AS_EnemyAttributeSetBase.Gold,20,0,5,,FALSE
+AS_EnemyAttributeSetBase.Exp,0,0,0,,FALSE
+AS_EnemyAttributeSetBase.Damage,0,0,700,,FALSE
+Beholder_AttributeSet.ExplodeRange,600,0,600,,FALSE
+AS_EnemyAttributeSetBase.Vulnerable,0,0,1,,FALSE
+AS_EnemyAttributeSetBase.CoreAttack,70,0,70,,FALSE
+AS_EnemyAttributeSetBase.DropPercent,0.1,0,1,,FALSE

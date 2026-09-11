@@ -1,0 +1,6 @@
+﻿Name,ItemName,Description,ItemImage,MaxStackCount,SellPrice,PassiveEffect,Magnitude,EffectRadius,Duration,ItemTag,UseType,ItemActorClass,ItemMesh,UseMontage
+Item_Potion_HP,HP 포션,HP 30% 회복,,3,100,,30,0,0,,,,,
+Item_Potion_MP,MP 포션,MP 30% 회복,,3,100,,30,0,0,,,,,
+Item_Bomb,폭탄,범위 공격,,3,300,,2000,1000,0,,,,,
+Item_Bomb_Ice,얼음 폭탄,몬스터 범위 30% 슬로우,,3,300,,30,500,5,,,,,
+Item_RepairKit,수리키트,구조물 30% 회복,,3,500,,30,0,0,,,,,
